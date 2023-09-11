@@ -2,6 +2,6 @@
 
 
 
-(page2.md)
+[Page 2](page2.md)
 
 
